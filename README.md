@@ -42,10 +42,10 @@ Utilizing different STRs, instead of fair one, can progress the exactness of DNA
 
 What might such a DNA database look like? Well, in its least complex frame, you may envision designing a DNA database as a CSV record, wherein each push compares to an person, and each column compares to a specific STR.
 
-name,AGAT,AATG,TATC
-Alice,28,42,14
-Bob,17,22,19
-Charlie,36,18,25
+ name,AGAT,AATG,TATC
+ Alice,28,42,14
+ Bob,17,22,19
+ Charlie,36,18,25
 
 The information within the over record would propose that Alice has the grouping AGAT rehashed 28 times sequentially some place in her DNA, the arrangement AATG rehashed 42 times, and TATC rehashed 14 times. Sway, in the mean time, has those same three STRs rehashed 17 times, 22 times, and 19 times, individually. And Charlie has those same three STRs rehashed 36, 18, and 25 times, separately.
 
