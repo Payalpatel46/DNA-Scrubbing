@@ -1,6 +1,4 @@
 # DNA-Scrubbing
-
-#  DNA-Testing
 Implementing a program that identifies a person based on their DNA, per the below.
 
 ##  Run Command
